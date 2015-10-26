@@ -1,0 +1,5 @@
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Entities\bin\Debug\Mootit.Users.Entities.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Entities\bin\Debug\Mootit.Users.Entities.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Entities\obj\Debug\Mootit.Users.Entities.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Entities\obj\Debug\Mootit.Users.Entities.pdb

@@ -1,0 +1,16 @@
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Tests.dll.config
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Tests.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Tests.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Entities.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Service.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Core.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Entities.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Service.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\bin\Debug\Mootit.Users.Core.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\obj\Debug\Mootit.Users.Tests.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Tests\obj\Debug\Mootit.Users.Tests.pdb

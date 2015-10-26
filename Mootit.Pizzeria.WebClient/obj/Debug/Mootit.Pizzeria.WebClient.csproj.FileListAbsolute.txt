@@ -1,0 +1,7 @@
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Pizzeria.WebClient\bin\Mootit.Pizzeria.WebClient.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Pizzeria.WebClient\bin\Mootit.Pizzeria.WebClient.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Pizzeria.WebClient\bin\Newtonsoft.Json.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Pizzeria.WebClient\bin\Newtonsoft.Json.xml
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Pizzeria.WebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Pizzeria.WebClient\obj\Debug\Mootit.Pizzeria.WebClient.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Pizzeria.WebClient\obj\Debug\Mootit.Pizzeria.WebClient.pdb

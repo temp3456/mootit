@@ -1,0 +1,9 @@
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\bin\Debug\Mootit.Users.Core.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\bin\Debug\Mootit.Users.Core.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\obj\Debug\Mootit.Users.Core.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Core\obj\Debug\Mootit.Users.Core.pdb

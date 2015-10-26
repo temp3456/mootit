@@ -1,0 +1,27 @@
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\Mootit.Users.Service.dll.config
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\Mootit.Users.Service.dll
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\Mootit.Users.Service.pdb
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\Mootit.Users.Core.dll
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\Mootit.Users.Entities.dll
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\Mootit.Users.Core.pdb
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\Mootit.Users.Entities.pdb
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\obj\Debug\Mootit.Users.Service.dll
+C:\Documents and Settings\Andre\Meus documentos\Visual Studio 2010\Projects\Mootit.Pizzeria.WebClient\Mootit.Users.Service\obj\Debug\Mootit.Users.Service.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\Mootit.Users.Service.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\Mootit.Users.Service.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\Mootit.Users.Core.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\Mootit.Users.Entities.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\Mootit.Users.Core.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\Mootit.Users.Entities.pdb
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\obj\Debug\Mootit.Users.Service.dll
+C:\Documents and Settings\Andre\Desktop\Mootit.Pizzeria\Mootit.Users.Service\obj\Debug\Mootit.Users.Service.pdb
